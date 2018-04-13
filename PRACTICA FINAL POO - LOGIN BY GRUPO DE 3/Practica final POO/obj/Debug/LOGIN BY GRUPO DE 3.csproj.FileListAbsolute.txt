@@ -1,0 +1,12 @@
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\obj\Debug\ConsoleApplication1.exe
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\bin\Debug\ConsoleApplication1.exe
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Practica final POO\obj\Debug\LOGIN BY GRUPO DE 3.csprojResolveAssemblyReference.cache
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\obj\Debug\ConsoleApplication1.exe
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\bin\Debug\ConsoleApplication1.exe
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Armando Batista\Documents\Visual Studio 2015\Projects\PRACTICA FINAL POO - LOGIN BY GRUPO DE 3\Practica final POO\obj\Debug\LOGIN BY GRUPO DE 3.csprojResolveAssemblyReference.cache
